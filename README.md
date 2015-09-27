@@ -14,7 +14,7 @@ The application must include the following:
 4.	You must also include enough documentation so that a novice user could use your application.
 5.	The documentation should be at the Shiny website itself. Do not post to an external link.
 
-Application Description
+Application Description:
 
 This application is using data from the mtcars dataset: 
 "The data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973–74 models)." 
